@@ -1,1 +1,7 @@
 # Lab-Task-3
+I have done the following tasks:
+1-Create a branch
+2-Added a pull request
+3-Merged with main branch
+4-Created a project
+5-Created 2 issues
